@@ -1,0 +1,231 @@
+@media (min-width: 320px) and (max-width: 479.98px){  
+/* navbar */
+.navbar {
+	padding: 30px;
+	background-color: rgb(238, 228, 214) !important;
+}
+.navbar-brand img{
+    width: 120px;
+}
+.navbar-light .navbar-toggler {
+	color: rgba(0,0,0,.55);
+	border-color: rgba(0,0,0,.8);
+}
+.d_none{
+    display: none;
+}
+.navbar .collaps_ul ul li {
+	display: list-item !important;
+    padding: 10px 5px;
+}
+.navbar .collaps_ul ul li:hover {
+	background-color: #5360b4;
+    
+}
+.navbar .collaps_ul ul li:hover a {
+	color: white;
+    
+}
+.side_link{
+    padding-top: 10px;
+}
+/* banner */
+#banner .banner {
+	padding: 100px 0;
+	margin-top: 50px;
+}
+#banner .banner_text h3 {
+	padding: 0 0px;
+}
+#banner .banner_text p {
+
+	padding: 20px 0px 60px 0px;
+
+}
+
+#footer .footer_item ul li a {
+	font-size: 12px;
+
+}
+
+
+/* sign */
+.sign .sign_main {
+	width: 98%;
+}
+
+ }
+
+
+ @media (min-width: 480px) and (max-width: 575.98px){  
+    /* navbar */
+    .navbar {
+        padding: 30px;
+        background-color: rgb(238, 228, 214) !important;
+    }
+    .navbar-brand img{
+        width: 120px;
+    }
+    .navbar-light .navbar-toggler {
+        color: rgba(0,0,0,.55);
+        border-color: rgba(0,0,0,.8);
+    }
+    .d_none{
+        display: none;
+    }
+    .navbar .collaps_ul ul li {
+        display: list-item !important;
+        padding: 10px 5px;
+    }
+    .navbar .collaps_ul ul li:hover {
+        background-color: #5360b4;
+        
+    }
+    .navbar .collaps_ul ul li:hover a {
+        color: white;
+        
+    }
+    .side_link{
+        padding-top: 10px;
+    }
+    /* banner */
+    #banner .banner {
+        padding: 120px 0;
+        margin-top: 50px;
+    }
+    #banner .banner_text h3 {
+        padding: 0 0px;
+    }
+    #banner .banner_text p {
+    
+        padding: 20px 0px 60px 0px;
+    
+    }
+    
+    #footer .footer_item ul li a {
+        font-size: 12px;
+    
+    }
+    
+    .sign .sign_main {
+        width: 98%;
+    }
+    
+    
+    
+     }
+
+@media (min-width: 576px) and (max-width: 767.98px){  
+        /* navbar */
+        .navbar {
+            padding: 30px;
+            background-color: rgb(238, 228, 214) !important;
+        }
+        .navbar-brand img{
+            width: 120px;
+        }
+        .navbar-light .navbar-toggler {
+            color: rgba(0,0,0,.55);
+            border-color: rgba(0,0,0,.8);
+        }
+        .d_none{
+            display: none;
+        }
+        .navbar .collaps_ul ul li {
+            display: list-item !important;
+            padding: 10px 5px;
+        }
+        .navbar .collaps_ul ul li:hover {
+            background-color: #5360b4;
+            
+        }
+        .navbar .collaps_ul ul li:hover a {
+            color: white;
+            
+        }
+        .side_link{
+            padding-top: 10px;
+        }
+        /* banner */
+        #banner .banner {
+            padding:140px 0;
+            margin-top: 50px;
+        }
+        #banner .banner_text h3 {
+            padding: 0 0px;
+        }
+        #banner .banner_text p {
+        
+            padding: 20px 0px 60px 0px;
+        
+        }
+        
+        #footer .footer_item ul li a {
+            font-size: 12px;
+        
+        }
+        
+        .sign .sign_main {
+            width: 98%;
+        }
+        
+        
+        
+         }
+
+
+@media (min-width: 768px) and (max-width: 991.98px){  
+            /* navbar */
+            .navbar {
+                padding: 30px;
+                background-color: rgb(238, 228, 214) !important;
+            }
+            .navbar-brand img{
+                width: 120px;
+            }
+            .navbar-light .navbar-toggler {
+                color: rgba(0,0,0,.55);
+                border-color: rgba(0,0,0,.8);
+            }
+            .d_none{
+                display: none;
+            }
+            .navbar .collaps_ul ul li {
+                display: list-item !important;
+                padding: 10px 5px;
+            }
+            .navbar .collaps_ul ul li:hover {
+                background-color: #5360b4;
+                
+            }
+            .navbar .collaps_ul ul li:hover a {
+                color: white;
+                
+            }
+            .side_link{
+                padding-top: 10px;
+            }
+            /* banner */
+            #banner .banner {
+                padding: 180px 0;
+                margin-top: 50px;
+            }
+            #banner .banner_text h3 {
+                padding: 0 0px;
+            }
+            #banner .banner_text p {
+            
+                padding: 20px 0px 60px 0px;
+            
+            }
+            
+            #footer .footer_item ul li a {
+                font-size: 12px;
+            
+            }
+            
+            
+            
+            
+            
+ }
